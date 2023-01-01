@@ -1,5 +1,5 @@
 # Fibonacci clock written in Rust
-Everyone said the best way to learn programming is to start working on some projects, rather than following tutorials. For a long time I've wanted to create a Fibonacci clock watchface of my PineTime smartwatch. Combined with my interest in Rust, I decided to make a small Fibonacci clock app.
+Everyone said the best way to learn programming is to start working on some projects, rather than following tutorials. For a long time I've wanted to create a Fibonacci clock watchface for my PineTime smartwatch. Combined with my interest in Rust, I decided to make a small Fibonacci clock app.
 
 ## Usage:
 Upon running, the app prints out the current time along with verbal description of the boxes (5, 3, 2, 1, 1) and possible colors (White, Red, Green, Blue). Fibonacci clock has the following characteristics:
