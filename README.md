@@ -14,7 +14,8 @@ The app should be able to handle "borderline" times such as 12:57.
 
 ## Task list:
 - [x] Create a working prototype, that adjusts time correctly and prints out colors accordingly
-- [ ] Simplify repeated code
+- [ ] Simplify repeated code based on a course taken recently
+- [ ] Create docs 
 - [ ] Visualize the clock using command line 
 - [ ] Create GUI app
 - [ ] \(Optional) Change from 1-12 to 0-11
